@@ -1,8 +1,8 @@
 # Awesome Machine Learning for Power Systems
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
 > A curated collection of papers, datasets, software, benchmarks, and resources at the intersection of machine learning and electric power systems.
+
 
 This repository aims to provide researchers, students, and practitioners with a structured overview of the rapidly growing field of machine learning for electric power systems.
 
@@ -13,7 +13,7 @@ Unlike traditional paper lists, this repository emphasizes:
 - Open-source tools
 - Research gaps and future directions
 
-Articles without code are excluded from this collection. Furthermore, articles with increasingly reported difficulties for reproducing results are removed from this collection over time.
+Research articles without open source code are excluded from this collection. Furthermore, articles where reproducibility of results are observed are removed from this collection over time.
 
 ---
 
@@ -30,9 +30,7 @@ Articles without code are excluded from this collection. Furthermore, articles w
   - [Electricity Markets](#electricity-markets)
   - [Foundation Models & LLMs](#foundation-models--llms)
 - [Datasets](#datasets)
-- [Benchmarks](#benchmarks)
 - [Open-Source Software](#open-source-software)
-- [Surveys](#surveys)
 - [Open Research Challenges](#open-research-challenges)
 - [Contributing](#contributing)
 
@@ -57,7 +55,7 @@ At the same time, machine learning has experienced rapid advances in:
 - Foundation models
 - Scientific machine learning
 
-This repository tracks research connecting these two fields.
+This repository tracks research connecting these two fields. Electrifying our energy consumption and supplying this electricity from renewable energy sources stands at the core of tackling global warming and climate change. This is the primary motivation behind conducting research at this intersection.
 
 ---
 
@@ -65,35 +63,32 @@ This repository tracks research connecting these two fields.
 
 ## Recommended Surveys
 
-*Coming soon.*
-
-### Forecasting
-
-- TBD
-
-### Reinforcement Learning
-
-- TBD
-
-### Graph Learning
-
-- TBD
-
-### Physics-Informed Learning
-
-- TBD
+| Area | Survey | Venue | Year |
+|--------|--------|--------|--------|
+| Application overview | [Tackling Climate Change with Machine Learning](https://dl.acm.org/doi/10.1145/3485128) | ACM Computing Surveys | 2022 |
+| Physics-Informed Learning | [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5) | Nature Reviews Physics | 2021 |
 
 ---
+
 
 ## Recommended Tutorials
 
-*Coming soon.*
+| Area | Survey | Venue | Year |
+|--------|--------|--------|--------|
+| ML for Optimization | [Tutorial on amortized optimization](https://arxiv.org/abs/2202.00665) | Foundations and Trens in Machine Learning | 2025 |
+| Enforcing constraints | [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](https://implicit-layers-tutorial.org) | NeurIPS | 2020 |
 
 ---
 
+
 ## Recommended Textbooks
 
-*Coming soon.*
+| Area | Textbook | Year |
+|--------|--------|--------|--------|
+| Machine Learning | [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | 2022 |
+| Geometric Deep Learning | [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com) | 2024 |
+| Reinforcement Learning | [Reinforcement Learning and Optimal Control](http://www.athenasc.com/index.html) | 2019 |
+| Reinforcement Learning | [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) | 2018 |
 
 ---
 
@@ -106,49 +101,29 @@ Applications include:
 - Load forecasting
 - Solar forecasting
 - Wind forecasting
-- Net-load forecasting
-- Probabilistic forecasting
+- Hydro forecasting
 
 ### Papers
 
-| Year | Venue | Title | Contribution | Link |
-|--------|--------|--------|--------|--------|
-| TBD | | | | | 
+| Year | Venue | Title | Task |
+|--------|--------|--------|-------- |
+| TBD | | | |
 
 ---
 
-## Reinforcement Learning & Control
+## Simulation
 
 Applications include:
 
-- Voltage control
-- Frequency regulation
-- Demand response
-- Grid operation
-- Multi-agent control
+- Power Flow (PF) simulations
+- Electro Magnetic Transient (EMT) simulations 
+
 
 ### Papers
 
-| Year | Venue | Title | Contribution | Link |
-|--------|--------|--------|--------|--------|
-| TBD | | | | | 
-
----
-
-## Graph Neural Networks
-
-Applications include:
-
-- State estimation
-- Topology identification
-- Power flow approximation
-- Representation learning
-
-### Papers
-
-| Year | Venue | Title | Contribution | Link |
-|--------|--------|--------|--------|--------|
-| TBD | | | | | 
+| Year | Venue | Title | Task |
+|--------|--------|--------|-------- |
+| TBD | | | |
 
 ---
 
@@ -156,18 +131,56 @@ Applications include:
 
 Applications include:
 
-- Optimal power flow
-- Unit commitment
-- Security-constrained optimization
-- Learning-enhanced optimization
+- AC optimal power flow (ACOPF)
+- Unit Commitment
+- Security-constrained ACOPF
+
 
 ### Papers
 
-| Year | Venue | Title | Contribution | Link |
-|--------|--------|--------|--------|--------|
-| TBD | | | | | 
+| Year | Venue | Title | Task |
+|--------|--------|--------|-------- |
+| TBD | | | |
 
 ---
+
+## Control
+
+Applications include:
+
+- Voltage control
+- Frequency control
+- Demand response
+- Topology switching
+- Converter control
+
+
+### Papers
+
+| Year | Venue | Title | Task |
+|--------|--------|--------|-------- |
+| TBD | | | |
+
+---
+
+## Neural Network architectures
+
+Applications include:
+
+- graph neural networks
+- geometric deep learning architectures
+- physics-informed architectures
+- neuro-symbolic architectures
+
+
+### Papers
+
+| Year | Venue | Title | Task |
+|--------|--------|--------|-------- |
+| TBD | | | |
+
+---
+
 
 ## Electricity Markets
 
@@ -180,26 +193,9 @@ Applications include:
 
 ### Papers
 
-| Year | Venue | Title | Contribution | Link |
-|--------|--------|--------|--------|--------|
-| TBD | | | | | 
-
----
-
-## Physics-Informed Machine Learning
-
-Applications include:
-
-- Physics-informed neural networks
-- Scientific machine learning
-- Hybrid optimization-learning approaches
-- Constraint-aware learning
-
-### Papers
-
-| Year | Venue | Title | Contribution | Link |
-|--------|--------|--------|--------|--------|
-| TBD | | | | | 
+| Year | Venue | Title | Task |
+|--------|--------|--------|-------- |
+| TBD | | | |
 
 ---
 
@@ -207,65 +203,37 @@ Applications include:
 
 Applications include:
 
+- Multi-modal, multi-tasking ML for power systems tasks
 - Grid operation assistants
 - Power-system copilots
 - Retrieval-augmented systems
 - Domain-specific foundation models
 
+
 ### Papers
 
-| Year | Venue | Title | Contribution | Link |
-|--------|--------|--------|--------|--------|
-| TBD | | | | | 
+| Year | Venue | Title | Task |
+|--------|--------|--------|-------- |
+| TBD | | | |
 
 ---
 
 # Datasets
 
-## Power System Datasets
+## Standardized Collections
 
-| Dataset | Description | Link |
-|----------|-------------|-------------|
-| TBD | | |
-
----
-
-## Forecasting Datasets
-
-| Dataset | Description | Link |
-|----------|-------------|-------------|
-| TBD | | |
+| Dataset | Description |
+|----------|-------------|
+| [AI.grids v1](https://huggingface.co/AI-grids) | A growing collection of standardized machine-learning datasets for power-system applications, including electricity consumption, renewable energy, and grid-related benchmarks designed to facilitate reproducible ML research.|
 
 ---
 
-## Market Datasets
+## ACOPF
 
-| Dataset | Description | Link |
-|----------|-------------|-------------|
-| TBD | | |
+| Dataset | Description |
+|----------|-------------|
+| [OPFData](https://arxiv.org/abs/2406.07234) | Large-scale open dataset for AC Optimal Power Flow (ACOPF) containing solved OPF instances with realistic topological perturbations. Developed to support data-driven OPF research and scalable machine-learning approaches for power-system optimization.|
 
-
----
-
-# Benchmarks
-
-A collection of commonly used benchmark environments and tasks.
-
-## Forecasting
-
-- TBD
-
-## Reinforcement Learning
-
-- TBD
-
-## Optimal Power Flow
-
-- TBD
-
-## Electricity Markets
-
-- TBD
 
 ---
 
@@ -297,29 +265,6 @@ A collection of commonly used benchmark environments and tasks.
 | PyTorch | Deep learning framework |
 | JAX | High-performance ML framework |
 
----
-
-# Surveys
-
-## General
-
-- TBD
-
-## Forecasting
-
-- TBD
-
-## Reinforcement Learning
-
-- TBD
-
-## Graph Neural Networks
-
-- TBD
-
-## Physics-Informed Learning
-
-- TBD
 
 ---
 
