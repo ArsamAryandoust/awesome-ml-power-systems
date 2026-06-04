@@ -62,7 +62,7 @@ This repository tracks research at the intersection of these two fields. Electri
 
 ## Recommended Surveys
 
-| Area | Survey | Venue | Year |
+| Area | Title | Venue | Year |
 |--------|--------|--------|--------|
 | Application overview | [Tackling Climate Change with Machine Learning](https://dl.acm.org/doi/10.1145/3485128) | ACM Computing Surveys | 2022 |
 | Physics-Informed Learning | [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5) | Nature Reviews Physics | 2021 |
@@ -71,7 +71,7 @@ This repository tracks research at the intersection of these two fields. Electri
 
 ## Recommended Tutorials
 
-| Area | Survey | Venue | Year |
+| Area | Title | Venue | Year |
 |--------|--------|--------|--------|
 | ML for Optimization | [Tutorial on amortized optimization](https://arxiv.org/abs/2202.00665) | Foundations and Trens in Machine Learning | 2025 |
 | Enforcing constraints | [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](https://implicit-layers-tutorial.org) | NeurIPS | 2020 |
@@ -80,7 +80,7 @@ This repository tracks research at the intersection of these two fields. Electri
 
 ## Recommended Textbooks
 
-| Area | Textbook | Year |
+| Area | Title | Year |
 |--------|--------|--------|
 | Machine Learning | [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | 2022 |
 | Geometric Deep Learning | [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com) | 2024 |
