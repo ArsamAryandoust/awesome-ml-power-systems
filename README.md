@@ -91,6 +91,16 @@ This repository tracks research at the intersection of these two fields. Electri
 
 # Research Areas
 
+We distinguish the following research areas:
+
+- [Forecasting](#forecasting)
+- [Simulation](#simulation)
+- [Optimization](#optimization)
+- [Control](#control)
+- [Neural Network Architectures](#neural-network-architectures)
+- [Electricity Markets](#electricity-markets)
+- [Foundation Models & LLMs](#foundation-models--llms)
+
 ## Forecasting
 
 Applications include:
