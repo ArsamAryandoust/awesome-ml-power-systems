@@ -3,17 +3,16 @@
 
 > A curated collection of papers, datasets, software, benchmarks, and resources at the intersection of machine learning and electric power systems.
 
-
 This repository aims to provide researchers, students, and practitioners with a structured overview of the rapidly growing field of machine learning for electric power systems.
 
-Unlike traditional paper lists, this repository emphasizes:
+Unlike other paper lists, this repository emphasizes:
 - Research categorization
 - Reproducibility (code availability)
 - Datasets and benchmarks
 - Open-source tools
 - Research gaps and future directions
 
-Research articles without open source code are excluded from this collection. Furthermore, articles where reproducibility of results are observed are removed from this collection over time.
+Only research articles with publicly available source code are included in this collection. Articles whose reported results cannot be independently reproduced are removed as reproducibility assessments become available.
 
 ---
 
@@ -70,7 +69,6 @@ This repository tracks research connecting these two fields. Electrifying our en
 
 ---
 
-
 ## Recommended Tutorials
 
 | Area | Survey | Venue | Year |
@@ -80,11 +78,10 @@ This repository tracks research connecting these two fields. Electrifying our en
 
 ---
 
-
 ## Recommended Textbooks
 
 | Area | Textbook | Year |
-|--------|--------|--------|--------|
+|--------|--------|--------|
 | Machine Learning | [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | 2022 |
 | Geometric Deep Learning | [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com) | 2024 |
 | Reinforcement Learning | [Reinforcement Learning and Optimal Control](http://www.athenasc.com/index.html) | 2019 |
@@ -180,7 +177,6 @@ Applications include:
 | TBD | | | |
 
 ---
-
 
 ## Electricity Markets
 
@@ -326,13 +322,6 @@ Please submit a pull request to:
 - Correct metadata
 - Improve categorization
 
-When adding a paper, please include:
-
-- Year
-- Venue
-- Title
-- One-sentence summary of contribution
-- Link to paper
 
 ---
 
@@ -343,7 +332,7 @@ If you find this repository useful, please consider starring it and citing it.
 ```bibtex
 @misc{aryandoust2026awesome,
   author = {Aryandoust, Arsam},
-  title = {Awesome Machine Learning for Power Systems: A Curated Collection of Papers, Datasets, and Software},
+  title = {Awesome Machine Learning for Power Systems},
   year = {2026},
   publisher = {GitHub},
   howpublished = {\url{https://github.com/ArsamAryandoust/awesome-ml-power-systems}}
