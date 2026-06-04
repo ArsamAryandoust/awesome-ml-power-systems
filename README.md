@@ -54,7 +54,7 @@ At the same time, machine learning has experienced rapid advances in:
 - Foundation models
 - Scientific machine learning
 
-This repository tracks research connecting these two fields. Electrifying our energy consumption and supplying this electricity from renewable energy sources stands at the core of tackling global warming and climate change. This is the primary motivation behind conducting research at this intersection.
+This repository tracks research at the intersection of these two fields. Electrifying energy consumption and meeting that demand with renewable energy sources is a central strategy for mitigating global warming and climate change. This shared objective motivates much of the research conducted at this intersection.
 
 ---
 
