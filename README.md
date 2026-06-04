@@ -12,7 +12,7 @@ Unlike other paper lists, this repository emphasizes:
 - Open-source tools
 - Research gaps and future directions
 
-Only research articles with publicly available source code are included in this collection. Articles whose reported results cannot be independently reproduced are removed as reproducibility assessments become available.
+Only research articles with publicly available source code and datasets are included in this collection. Articles whose reported results cannot be independently reproduced are removed as reproducibility assessments become available.
 
 ---
 
@@ -28,7 +28,6 @@ Only research articles with publicly available source code are included in this 
   - [Neural Network Architectures](#neural-network-architectures)
   - [Electricity Markets](#electricity-markets)
   - [Foundation Models & LLMs](#foundation-models--llms)
-- [Datasets](#datasets)
 - [Open-Source Software](#open-source-software)
 - [Open Research Challenges](#open-research-challenges)
 - [Contributing](#contributing)
@@ -109,12 +108,13 @@ Applications include:
 - Solar forecasting
 - Wind forecasting
 - Hydro forecasting
+- Fault forecasting
 
 ### Papers
 
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
-| TBD | | | |
+| 2024 | NeurIPS (Datasets & Benchmarks) | [PowerGraph: A Power Grid Benchmark Dataset for Graph Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c7caf017cbbca1f4b368ffdc7bb8f319-Abstract-Datasets_and_Benchmarks_Track.html) | Benchmark dataset for graph learning on electric power networks |
 
 ---
 
@@ -130,7 +130,8 @@ Applications include:
 
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
-| TBD | | | |
+| 2025 | ICML | [Optimization Proxies using Limited Labeled Data and Training Time: A Semi-Supervised Bayesian Neural Network Approach](https://openreview.net/forum?id=Jnpgx8OzfD) | Learning surrogates/proxies for power-flow and power-system optimization |
+| 2025 | NeurIPS (Datasets & Benchmarks) | [PFΔ: A Benchmark Dataset for Power Flow under Load, Generation, and Topology Variations](https://openreview.net/forum?id=Gi1HtsTAkv) | Benchmarking machine-learning methods for power-flow prediction and analysis |
 
 ---
 
@@ -147,7 +148,18 @@ Applications include:
 
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
-| TBD | | | |
+| 2026 | ICLR | [PGLearn: An Open-Source Learning Toolkit for Optimal Power Flow](https://openreview.net/forum?id=7J2C4QnQrl) | Machine-learning toolkit and benchmark framework for optimal power flow |
+| 2025 | ICLR | [PGLearn: An Open-Source Learning Toolkit for Optimal Power Flow](https://openreview.net/forum?id=7J2C4QnQrl) | Standardizing multi-scale bus system benchmarks (up to 22,000 buses) across AC, DC, and second-order cone optimization formulations. |
+| 2024 | ICML | [Compact Optimality Verification for Optimization Proxies](https://openreview.net/forum?id=xuQpX4PfoG) | Structuring a gradient-based primal heuristic formulation to verify and bound worst-case optimality gaps for DC-OPF neural network proxies. |
+| 2024 | Google DeepMind | [OPFData: Large-scale datasets for AC optimal power flow with topological perturbations](https://arxiv.org/abs/2406.07234) |
+| [OPFData: Large-scale datasets for AC optimal power flow with topological perturbations](https://arxiv.org/abs/2406.07234) | Large-scale open dataset for AC Optimal Power Flow (ACOPF) containing solved OPF instances with realistic topological perturbations. Developed to support data-driven OPF research and scalable machine-learning approaches for power-system optimization.|
+| 2024 | ICML | [QCQP-Net: Reliably Learning Feasible Alternating Current Optimal Power Flow Solutions Under Constraints](https://openreview.net/forum?id=AoCqLYhTD8) | Mapping power system loads directly to non-convex AC-OPF solutions via specialized deep networks that guarantee strict physical constraint satisfaction. |
+| 2023 | ICML | [Low Complexity Homeomorphic Projection to Ensure Neural-Network Solution Feasibility for Optimization over (Non-)Convex Set](https://proceedings.mlr.press/v202/liang23a.html) | Feasibility projection for neural-network solutions to AC optimal power flow (AC-OPF) |
+| 2021 | NeurIPS | [Adversarially Robust Learning for Security-Constrained Optimal Power Flow](https://proceedings.neurips.cc/paper/2021/hash/f0f07e680de407b0f12abf15bd520097-Abstract.html) | Learning-based optimization for security-constrained OPF under adversarial uncertainty |
+| 2019 | ICML | [Machine Learning for AC Optimal Power Flow](https://proceedings.mlr.press/v97/guha19a.html) | Developing end-to-end regression proxies and active constraint prediction models to accelerate non-convex AC-OPF problems. |
+
+
+
 
 ---
 
@@ -220,9 +232,13 @@ Applications include:
 
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
-| TBD | | | |
+| 2024 | NeurIPS | [PowerPM: Foundation Model for Power Systems](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d0a2279c9f7ded859bcbf878c3c3d1ed-Abstract-Conference.html) | Foundation model / representation learning for power-system tasks |
 
 ---
+
+
+
+
 
 # Datasets
 
