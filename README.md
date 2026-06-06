@@ -30,7 +30,6 @@ Only research articles with publicly available source code and datasets are incl
   - [Foundation Models & LLMs](#foundation-models--llms)
 - [Open-Source Software](#open-source-software)
 - [Open Research Challenges](#open-research-challenges)
-- [Contributing](#contributing)
 
 ---
 
@@ -302,21 +301,6 @@ Potential high-impact research directions include:
 - Human-AI collaboration in control rooms
 - Explainable and interpretable AI for power systems
 - Neurosymbolic models for power systems
-
----
-
-# Contributing
-
-Contributions are welcome.
-
-Please submit a pull request to:
-
-- Add missing papers
-- Add datasets
-- Add software tools
-- Correct metadata
-- Improve categorization
-
 
 ---
 
