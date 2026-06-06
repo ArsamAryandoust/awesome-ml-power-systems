@@ -88,6 +88,16 @@ This repository tracks research at the intersection of these two fields. Electri
 
 ---
 
+## Recommended ML Frameworks
+
+| Tool | Description |
+|--------|-------------|
+| PyTorch | [Deep learning framework](https://pytorch.org) |
+| JAX | [High-performance ML framework](https://docs.jax.dev/en/latest/) |
+
+
+---
+
 # Research Areas
 
 We distinguish the following research areas:
@@ -100,6 +110,15 @@ We distinguish the following research areas:
 - [Electricity Markets](#electricity-markets)
 - [Foundation Models & LLMs](#foundation-models--llms)
 
+
+The following list contains studies and sources covering a range of these areas.
+
+| Dataset | Description |
+|----------|-------------|
+| [AI.grids v1](https://huggingface.co/AI-grids) | A growing collection of standardized machine-learning datasets for power-system applications, including electricity consumption, renewable energy, and grid-related benchmarks designed to facilitate reproducible ML research.|
+
+
+
 ## Forecasting
 
 Applications include:
@@ -110,7 +129,6 @@ Applications include:
 - Hydro forecasting
 - Fault forecasting
 
-### Papers
 
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
@@ -125,8 +143,6 @@ Applications include:
 - Power Flow (PF) simulations
 - Electro Magnetic Transient (EMT) simulations 
 
-
-### Papers
 
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
@@ -144,17 +160,12 @@ Applications include:
 - Security-constrained ACOPF
 
 
-### Papers
-
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
 | 2024 | ICML | [Compact Optimality Verification for Optimization Proxies](https://openreview.net/forum?id=xuQpX4PfoG) | Structuring a gradient-based primal heuristic formulation to verify and bound worst-case optimality gaps for DC-OPF neural network proxies. |
 | 2024 | Google DeepMind | [OPFData: Large-scale datasets for AC optimal power flow with topological perturbations](https://arxiv.org/abs/2406.07234) |
-| 2024 | [OPFData: Large-scale datasets for AC optimal power flow with topological perturbations](https://arxiv.org/abs/2406.07234) | Large-scale open dataset for AC Optimal Power Flow (ACOPF) containing solved OPF instances with realistic topological perturbations. Developed to support data-driven OPF research and scalable machine-learning approaches for power-system optimization.|
-| 2024 | ICML | [QCQP-Net: Reliably Learning Feasible Alternating Current Optimal Power Flow Solutions Under Constraints](https://openreview.net/forum?id=AoCqLYhTD8) | Mapping power system loads directly to non-convex AC-OPF solutions via specialized deep networks that guarantee strict physical constraint satisfaction. |
 | 2023 | ICML | [Low Complexity Homeomorphic Projection to Ensure Neural-Network Solution Feasibility for Optimization over (Non-)Convex Set](https://proceedings.mlr.press/v202/liang23a.html) | Feasibility projection for neural-network solutions to AC optimal power flow (AC-OPF) |
 | 2021 | NeurIPS | [Adversarially Robust Learning for Security-Constrained Optimal Power Flow](https://proceedings.neurips.cc/paper/2021/hash/f0f07e680de407b0f12abf15bd520097-Abstract.html) | Learning-based optimization for security-constrained OPF under adversarial uncertainty |
-| 2019 | ICML | [Machine Learning for AC Optimal Power Flow](https://proceedings.mlr.press/v97/guha19a.html) | Developing end-to-end regression proxies and active constraint prediction models to accelerate non-convex AC-OPF problems. |
 
 
 
@@ -172,8 +183,6 @@ Applications include:
 - Converter control
 
 
-### Papers
-
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
 | TBD | | | |
@@ -190,8 +199,6 @@ Applications include:
 - neuro-symbolic architectures
 
 
-### Papers
-
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
 | TBD | | | |
@@ -207,7 +214,6 @@ Applications include:
 - Market simulation
 - Market design
 
-### Papers
 
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
@@ -226,8 +232,6 @@ Applications include:
 - Domain-specific foundation models
 
 
-### Papers
-
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
 | 2024 | NeurIPS | [PowerPM: Foundation Model for Power Systems](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d0a2279c9f7ded859bcbf878c3c3d1ed-Abstract-Conference.html) | Foundation model / representation learning for power-system tasks |
@@ -236,23 +240,6 @@ Applications include:
 
 
 
-
-
-# Datasets
-
-## Standardized Collections
-
-| Dataset | Description |
-|----------|-------------|
-| [AI.grids v1](https://huggingface.co/AI-grids) | A growing collection of standardized machine-learning datasets for power-system applications, including electricity consumption, renewable energy, and grid-related benchmarks designed to facilitate reproducible ML research.|
-
----
-
-## ACOPF
-
-| Dataset | Description |
-|----------|-------------|
-| [OPFData](https://arxiv.org/abs/2406.07234) | Large-scale open dataset for AC Optimal Power Flow (ACOPF) containing solved OPF instances with realistic topological perturbations. Developed to support data-driven OPF research and scalable machine-learning approaches for power-system optimization.|
 
 
 ---
@@ -275,16 +262,6 @@ Applications include:
 |--------|-------------|
 | Grid2Op | Benchmark platform for power-grid operation |
 | PowerGridworld | RL environments for power systems |
-
----
-
-## Machine Learning
-
-| Tool | Description |
-|--------|-------------|
-| PyTorch | Deep learning framework |
-| JAX | High-performance ML framework |
-
 
 ---
 
