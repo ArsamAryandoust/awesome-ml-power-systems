@@ -58,6 +58,8 @@ This repository tracks research at the intersection of these two fields. Electri
 
 # Getting Started
 
+
+
 ## Recommended Surveys
 
 | Area | Title | Venue | Year |
@@ -87,13 +89,23 @@ This repository tracks research at the intersection of these two fields. Electri
 
 ---
 
+## Recommended Lectures
+
+| Title | Lecturer |
+|--------|-------------|
+| [MIT 6.S191 Introduction to Deep Learning](https://introtodeeplearning.com) | Alexander and Ava Amini |
+| [Stanford CS224W Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec |
+
+
+---
+
 ## Recommended ML Frameworks & Tools
 
 | Tool | Description |
 |--------|-------------|
-| PyTorch | [Deep learning framework](https://pytorch.org) |
-| JAX | [High-performance ML framework](https://docs.jax.dev/en/latest/) |
-| WandB | [MLOps for tracking, visualizing and optimizing models](https://wandb.ai/site/) |
+| [PyTorch](https://pytorch.org) | Deep learning framework |
+| [JAX](https://docs.jax.dev/en/latest/) | High-performance ML framework |
+| [WandB](https://wandb.ai/site/) | MLOps for tracking, visualizing and optimizing models |
 
 
 ---
