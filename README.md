@@ -28,6 +28,7 @@ Only research articles with publicly available source code and datasets are incl
   - [Neural Network Architectures](#neural-network-architectures)
   - [Electricity Markets](#electricity-markets)
   - [Foundation Models & LLMs](#foundation-models--llms)
+  - [Miscellaneous](#miscellaneous)
 - [Open-Source Software](#open-source-software)
 - [Open Research Challenges](#open-research-challenges)
 
@@ -245,7 +246,16 @@ Applications include:
 
 
 
+## Miscellaneous
 
+Applications include:
+
+- Physics-informed benchmarking
+
+
+| Year | Venue | Title | Task |
+|--------|--------|--------|-------- |
+| 2022 | NeurIPS | [LIPS - Learning Industrial Physical Simulation benchmark suite](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b3ac9866f6333beaa7d38926101b7e1c-Abstract-Datasets_and_Benchmarks.html) | A modular benchmark suite for evaluating data-driven augmented physical simulators on industrial use cases, such as power grids and pneumatics, across criteria including accuracy, efficiency, robustness, and real-world applicability.|
 
 ---
 
