@@ -137,7 +137,9 @@ Applications include:
 
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
-| 2024 | NeurIPS (Datasets & Benchmarks) | [PowerGraph: A Power Grid Benchmark Dataset for Graph Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c7caf017cbbca1f4b368ffdc7bb8f319-Abstract-Datasets_and_Benchmarks_Track.html) | Benchmark dataset for graph learning on electric power networks |
+| 2024 | NeurIPS (Datasets & Benchmarks) | [PowerGraph: A Power Grid Benchmark Dataset for Graph Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c7caf017cbbca1f4b368ffdc7bb8f319-Abstract-Datasets_and_Benchmarks_Track.html) | Cascading failure forecasts based on grid state |
+| 2024 | Energy \& Buildings | [Benchmarking reservoir computing for residential energy demand forecasting](https://www.sciencedirect.com/science/article/pii/S0378778824003529) | Autoregressive electric load forecasting |
+| 2022 | Nature Machine Intelligence | [Enhanced spatio-temporal electric load forecasts using less data with active deep learning](https://www.nature.com/articles/s42256-022-00552-x) | Spatial electric load forecasting |
 
 ---
 
@@ -155,6 +157,7 @@ Applications include:
 | 2025 | NeurIPS (Datasets & Benchmarks) | [PFΔ: A Benchmark Dataset for Power Flow under Load, Generation, and Topology Variations](https://openreview.net/forum?id=Gi1HtsTAkv) | Benchmarking machine-learning methods for power-flow prediction and analysis |
 
 ---
+
 
 ## Optimization
 
