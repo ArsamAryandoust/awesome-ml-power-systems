@@ -25,7 +25,8 @@ Only research articles with publicly available source code and datasets are incl
   - [Simulation](#simulation)
   - [Optimization](#optimization)
   - [Control](#control)
-  - [Neural Network Architectures](#neural-network-architectures)
+  - [Innovative Models and Architectures](#innovative-models-and-architectures)
+  - [Innovative Learning Algorithms](#innovative-learning-algorithms)
   - [Electricity Markets](#electricity-markets)
   - [Foundation Models & LLMs](#foundation-models--llms)
   - [Miscellaneous](#miscellaneous)
@@ -75,7 +76,7 @@ This repository tracks research at the intersection of these two fields. Electri
 | Area | Title | Venue | Year |
 |--------|--------|--------|--------|
 | ML for Optimization | [Tutorial on amortized optimization](https://arxiv.org/abs/2202.00665) | Foundations and Trens in Machine Learning | 2025 |
-| Enforcing constraints | [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](https://implicit-layers-tutorial.org) | NeurIPS | 2020 |
+| Differential optimization layers | [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](https://implicit-layers-tutorial.org) | NeurIPS | 2020 |
 
 ---
 
@@ -138,8 +139,6 @@ Applications include:
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
 | 2024 | NeurIPS (Datasets & Benchmarks) | [PowerGraph: A Power Grid Benchmark Dataset for Graph Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c7caf017cbbca1f4b368ffdc7bb8f319-Abstract-Datasets_and_Benchmarks_Track.html) | Cascading failure forecasts based on grid state |
-| 2024 | Energy \& Buildings | [Benchmarking reservoir computing for residential energy demand forecasting](https://www.sciencedirect.com/science/article/pii/S0378778824003529) | Autoregressive electric load forecasting |
-| 2022 | Nature Machine Intelligence | [Enhanced spatio-temporal electric load forecasts using less data with active deep learning](https://www.nature.com/articles/s42256-022-00552-x) | Spatial electric load forecasting |
 
 ---
 
@@ -197,10 +196,11 @@ Applications include:
 
 ---
 
-## Neural Network architectures
+## Innovative Models and Architectures 
 
 Applications include:
 
+- reservoir computing
 - graph neural networks
 - geometric deep learning architectures
 - physics-informed architectures
@@ -209,7 +209,22 @@ Applications include:
 
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
-| TBD | | | |
+| 2024 | Energy \& Buildings | [Benchmarking reservoir computing for residential energy demand forecasting](https://www.sciencedirect.com/science/article/pii/S0378778824003529) | Autoregressive electric load forecasting |
+
+
+## Innovative Learning Algorithms
+
+Applications include:
+
+- active learning
+
+| Year | Venue | Title | Task |
+|--------|--------|--------|-------- |
+| 2022 | Nature Machine Intelligence | [Enhanced spatio-temporal electric load forecasts using less data with active deep learning](https://www.nature.com/articles/s42256-022-00552-x) | Spatial electric load forecasting |
+
+
+
+
 
 ---
 
