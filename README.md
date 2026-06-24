@@ -26,6 +26,7 @@ Only research articles with publicly available source code and datasets are incl
   - [Optimization](#optimization)
   - [Control](#control)
   - [Innovative Models and Architectures](#innovative-models-and-architectures)
+  - [Innovative Learning Algorithms](#innovative-learning-algorithms)
   - [Electricity Markets](#electricity-markets)
   - [Foundation Models & LLMs](#foundation-models--llms)
   - [Miscellaneous](#miscellaneous)
@@ -210,12 +211,12 @@ Applications include:
 |--------|--------|--------|-------- |
 | 2024 | Energy \& Buildings | [Benchmarking reservoir computing for residential energy demand forecasting](https://www.sciencedirect.com/science/article/pii/S0378778824003529) | Autoregressive electric load forecasting |
 
+
 ## Innovative Learning Algorithms
 
 Applications include:
 
 - active learning
-
 
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
