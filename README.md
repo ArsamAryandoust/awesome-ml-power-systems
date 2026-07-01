@@ -209,7 +209,8 @@ Applications include:
 
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
-| 2024 | Energy \& Buildings | [Benchmarking reservoir computing for residential energy demand forecasting](https://www.sciencedirect.com/science/article/pii/S0378778824003529) | Autoregressive electric load forecasting |
+| 2024 | Energy \& Buildings | [Space-Vector Neural Networks: Efficient Learning From Three-Phase Electrical Waveforms](https://ieeexplore.ieee.org/document/10510414) | Reconstruction of unbalanced three-phase voltage signals and the detection of cyber-attacks in digital substations |
+| 2024 | IEEE Transaction on Smart Grid | [Benchmarking reservoir computing for residential energy demand forecasting](https://www.sciencedirect.com/science/article/pii/S0378778824003529) | Autoregressive electric load forecasting |
 
 
 ## Innovative Learning Algorithms
