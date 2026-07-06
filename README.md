@@ -260,6 +260,7 @@ Applications include:
 |--------|--------|--------|-------- |
 | 2026 | Hugging Face | [AI.grids v1](https://huggingface.co/AI-grids) | A growing collection of standardized machine-learning datasets for power-system applications, including electricity consumption, renewable energy, and grid-related benchmarks designed to facilitate reproducible ML research.|
 | 2024 | NeurIPS | [PowerPM: Foundation Model for Power Systems](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d0a2279c9f7ded859bcbf878c3c3d1ed-Abstract-Conference.html) | Foundation model / representation learning for power-system tasks |
+| 2024 | DeepMind | [Mixture of A Million Experts](https://arxiv.org/abs/2407.04153) | Pioneering mixture of experts model |
 
 ---
 
