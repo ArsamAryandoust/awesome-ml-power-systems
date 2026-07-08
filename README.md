@@ -113,7 +113,7 @@ This repository tracks research at the intersection of these two fields. Electri
 
 ## Recommended Publication Venues
 
-Unlike many other academic disciplines, computer science—and machine learning in particular—places especially strong emphasis on conference publications. Top-tier conferences often serve as the primary venues for disseminating high-impact research, in part because their shorter publication cycles are well aligned with the rapid pace of research and development in these fields.
+Unlike many other academic disciplines, computer science, and machine learning in particular, places especially strong emphasis on conference publications. Top-tier conferences often serve as the primary venues for disseminating high-impact research, in part because their shorter publication cycles are well aligned with the rapid pace of research and development in these fields.
 
 For work at the intersection of machine learning, energy systems, and climate, the following venues are particularly relevant:
 
