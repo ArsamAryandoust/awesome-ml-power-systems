@@ -113,18 +113,23 @@ This repository tracks research at the intersection of these two fields. Electri
 
 ## Recommended Publication Venues
 
+Unlike many other academic disciplines, computer science—and machine learning in particular—places especially strong emphasis on conference publications. Top-tier conferences often serve as the primary venues for disseminating high-impact research, in part because their shorter publication cycles are well aligned with the rapid pace of research and development in these fields.
+
+For work at the intersection of machine learning, energy systems, and climate, the following venues are particularly relevant:
+
 | Category | Publication Venue |
 |---|---|
-| Top-tier ML Conference | ICLR |
-| Top-tier ML Conference | ICML |
-| Top-tier ML Conference | NeurIPS |
-| AI / ML Journal | Nature Machine Intelligence |
-| Energy Journal | Nature Energy |
-| Energy Journal | Joule |
-| Climate Journal | Nature Climate Change |
-| Power Systems Journal | IEEE Transactions on Smart Grid |
-| Power Systems Journal | IEEE Transactions on Power Systems |
-| Energy Journal | Applied Energy |
+| Top-tier machine learning conference | ICLR |
+| Top-tier machine learning conference | ICML |
+| Top-tier machine learning conference | NeurIPS |
+| Artificial intelligence and machine learning journal | Nature Machine Intelligence |
+| Energy journal | Nature Energy |
+| Energy journal | Joule |
+| Climate journal | Nature Climate Change |
+| Power systems journal | IEEE Transactions on Smart Grid |
+| Power systems journal | IEEE Transactions on Power Systems |
+| Energy journal | Applied Energy |
+| Data-focused journal | Scientific Data |
 
 ---
 
