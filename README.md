@@ -109,6 +109,22 @@ This repository tracks research at the intersection of these two fields. Electri
 | [JAX](https://docs.jax.dev/en/latest/) | High-performance ML framework |
 | [WandB](https://wandb.ai/site/) | MLOps for tracking, visualizing and optimizing models |
 
+---
+
+## Recommended Publication Venues
+
+| Category | Publication Venue |
+|---|---|
+| Top-tier ML Conference | ICLR |
+| Top-tier ML Conference | ICML |
+| Top-tier ML Conference | NeurIPS |
+| AI / ML Journal | Nature Machine Intelligence |
+| Energy Journal | Nature Energy |
+| Energy Journal | Joule |
+| Climate Journal | Nature Climate Change |
+| Power Systems Journal | IEEE Transactions on Smart Grid |
+| Power Systems Journal | IEEE Transactions on Power Systems |
+| Energy Journal | Applied Energy |
 
 ---
 
