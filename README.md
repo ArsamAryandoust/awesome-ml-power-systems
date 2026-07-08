@@ -109,6 +109,27 @@ This repository tracks research at the intersection of these two fields. Electri
 | [JAX](https://docs.jax.dev/en/latest/) | High-performance ML framework |
 | [WandB](https://wandb.ai/site/) | MLOps for tracking, visualizing and optimizing models |
 
+---
+
+## Recommended Publication Venues
+
+Unlike many other academic disciplines, computer science—and machine learning in particular—places especially strong emphasis on conference publications. Top-tier conferences often serve as the primary venues for disseminating high-impact research, in part because their shorter publication cycles are well aligned with the rapid pace of research and development in these fields.
+
+For work at the intersection of machine learning, energy systems, and climate, the following venues are particularly relevant:
+
+| Category | Publication Venue |
+|---|---|
+| Top-tier machine learning conference | ICLR |
+| Top-tier machine learning conference | ICML |
+| Top-tier machine learning conference | NeurIPS |
+| Artificial intelligence and machine learning journal | Nature Machine Intelligence |
+| Energy journal | Nature Energy |
+| Energy journal | Joule |
+| Climate journal | Nature Climate Change |
+| Power systems journal | IEEE Transactions on Smart Grid |
+| Power systems journal | IEEE Transactions on Power Systems |
+| Energy journal | Applied Energy |
+| Data-focused journal | Scientific Data |
 
 ---
 
