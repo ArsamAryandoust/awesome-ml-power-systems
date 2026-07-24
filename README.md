@@ -30,6 +30,7 @@ Only research articles with publicly available source code and datasets are incl
   - [Electricity Markets](#electricity-markets)
   - [Foundation Models & LLMs](#foundation-models--llms)
   - [Miscellaneous](#miscellaneous)
+- [Projects and Initatives](#projects-and-initiatives)
 - [Open-Source Software](#open-source-software)
 - [Open Research Challenges](#open-research-challenges)
 
@@ -297,6 +298,18 @@ Applications include:
 | Year | Venue | Title | Task |
 |--------|--------|--------|-------- |
 | 2022 | NeurIPS | [LIPS - Learning Industrial Physical Simulation benchmark suite](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b3ac9866f6333beaa7d38926101b7e1c-Abstract-Datasets_and_Benchmarks.html) | A modular benchmark suite for evaluating data-driven augmented physical simulators on industrial use cases, such as power grids and pneumatics, across criteria including accuracy, efficiency, robustness, and real-world applicability.|
+
+
+---
+
+# Projects and Initatives
+
+| Name | Description |
+|---|---|
+| [AI.Grids](https://cresym.eu/ai-grids/) | A European initiative developing open, sovereign AI foundation models for electricity-grid operations, forecasting, planning, and management. |
+| [GridFM](https://gridfm.org/) | An open collaboration between power-systems and AI researchers developing foundation models trained on diverse electric-grid data. |
+| [PowerAgent](https://poweragent.seas.harvard.edu/) | An open-source community developing LLM-powered tools and agentic AI workflows for power-system analysis, planning, and operation. |
+
 
 ---
 
