@@ -30,7 +30,7 @@ Only research articles with publicly available source code and datasets are incl
   - [Electricity Markets](#electricity-markets)
   - [Foundation Models & LLMs](#foundation-models--llms)
   - [Miscellaneous](#miscellaneous)
-- [Projects and Initatives](#projects-and-initiatives)
+- [Projects and Initiatives](#projects-and-initiatives)
 - [Open-Source Software](#open-source-software)
 - [Open Research Challenges](#open-research-challenges)
 
@@ -302,7 +302,7 @@ Applications include:
 
 ---
 
-# Projects and Initatives
+# Projects and Initiatives
 
 | Name | Description |
 |---|---|
