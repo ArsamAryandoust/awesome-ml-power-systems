@@ -61,6 +61,23 @@ This repository tracks research at the intersection of these two fields. Electri
 
 # Getting Started
 
+| Category | Area / Tool | Resource | Venue / Lecturer / Description | Year |
+|---|---|---|---|---:|
+| Survey | Application overview | [Tackling Climate Change with Machine Learning](https://dl.acm.org/doi/10.1145/3485128) | ACM Computing Surveys | 2022 |
+| Survey | Physics-Informed Learning | [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5) | Nature Reviews Physics | 2021 |
+| Tutorial | ML for Optimization | [Tutorial on amortized optimization](https://arxiv.org/abs/2202.00665) | Foundations and Trends in Machine Learning | 2025 |
+| Tutorial | Differential optimization layers | [Deep Implicit Layers — Neural ODEs, Deep Equilibrium Models, and Beyond](https://implicit-layers-tutorial.org) | NeurIPS | 2020 |
+| Textbook | Machine Learning | [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | — | 2022 |
+| Textbook | Geometric Deep Learning | [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com) | — | 2024 |
+| Textbook | Reinforcement Learning | [Reinforcement Learning and Optimal Control](http://www.athenasc.com/index.html) | — | 2019 |
+| Textbook | Reinforcement Learning | [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) | — | 2018 |
+| Lecture | Deep Learning | [MIT 6.S191 Introduction to Deep Learning](https://introtodeeplearning.com) | Alexander and Ava Amini | — |
+| Lecture | Graph Machine Learning | [Stanford CS224W Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec | — |
+| Framework / Tool | PyTorch | [PyTorch](https://pytorch.org) | Deep learning framework | — |
+| Framework / Tool | JAX | [JAX](https://docs.jax.dev/en/latest/) | High-performance ML framework | — |
+| Framework / Tool | Weights & Biases | [WandB](https://wandb.ai/site/) | MLOps for tracking, visualizing, and optimizing models | — |
+
+
 
 
 ## Recommended Surveys
