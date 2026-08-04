@@ -62,7 +62,7 @@ This repository tracks research at the intersection of these two fields. Electri
 # Getting Started
 
 | Category | Resource | Venue / Lecturer / Description | Year |
-|---|---|---|---|---:|
+|---|---|---|---:|
 | Survey | [Tackling Climate Change with Machine Learning](https://dl.acm.org/doi/10.1145/3485128) | ACM Computing Surveys | 2022 |
 | Survey | [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5) | Nature Reviews Physics | 2021 |
 | Tutorial | [Tutorial on amortized optimization](https://arxiv.org/abs/2202.00665) | Foundations and Trends in Machine Learning | 2025 |
