@@ -24,20 +24,7 @@ Only research articles with publicly available source code and datasets are incl
 }
 ```
 
----
-
-## Contents
-
-- [Introduction](#introduction)
-- [Research Articles](#research-articles)
-- [Projects and Initiatives](#projects-and-initiatives)
-- [Open-Source Software](#open-source-software)
-- [Open Research Challenges](#open-research-challenges)
-- [Future Trends](#future-trends)
-
----
-
-# Introduction
+## Introduction
 
 Electric power systems are undergoing a profound transformation driven by:
 
@@ -60,8 +47,6 @@ This repository tracks research at the intersection of these two fields. Electri
 
 
 ## Getting Started
-
-The following is a summary of what I find the most important surveys, tutorials, textbooks, lectures and tools for getting started:
 
 | Category | Resource |
 |---|---|
@@ -100,9 +85,8 @@ For work at the intersection of machine learning, energy systems, and climate, t
 | Energy journal | [Applied Energy](https://www.sciencedirect.com/journal/applied-energy) |
 | Data-focused journal | [Scientific Data](https://www.nature.com/sdata/) |
 
----
 
-# Research Articles
+## Research Articles
 
 
 | Year | Venue | Title | Application |
@@ -123,9 +107,8 @@ For work at the intersection of machine learning, energy systems, and climate, t
 | 2022 | NeurIPS | [LIPS - Learning Industrial Physical Simulation benchmark suite](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b3ac9866f6333beaa7d38926101b7e1c-Abstract-Datasets_and_Benchmarks.html) | A modular benchmark suite for evaluating data-driven augmented physical simulators on industrial use cases, such as power grids and pneumatics, across criteria including accuracy, efficiency, robustness, and real-world applicability.|
 
 
----
 
-# Projects and Initiatives
+## Projects and Initiatives
 
 | Name | Description |
 |---|---|
@@ -134,9 +117,8 @@ For work at the intersection of machine learning, energy systems, and climate, t
 | [PowerAgent](https://poweragent.seas.harvard.edu/) | An open-source community developing LLM-powered tools and agentic AI workflows for power-system analysis, planning, and operation. |
 
 
----
-
-# Open-Source Software
+<!--
+## Open-Source Software
 
 | Tool | Description |
 |--------|-------------|
@@ -146,9 +128,8 @@ For work at the intersection of machine learning, energy systems, and climate, t
 | Grid2Op | Benchmark platform for power-grid operation |
 | PowerGridworld | RL environments for power systems |
 
----
 
-# Open Research Challenges
+## Open Research Challenges
 
 The following research challenges remain largely open:
 
@@ -161,9 +142,8 @@ The following research challenges remain largely open:
 | Foundation Models for Power Systems | The role of large-scale pretrained models remains largely unexplored. |
 | Offline Reinforcement Learning | Safe learning from historical operational data remains a major challenge. |
 
----
 
-# Future Trends
+## Future Trends
 
 Potential high-impact research directions include:
 
@@ -176,5 +156,4 @@ Potential high-impact research directions include:
 - Human-AI collaboration in control rooms
 - Explainable and interpretable AI for power systems
 - Neurosymbolic models for power systems
-
---- 
+-->
