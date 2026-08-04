@@ -61,21 +61,21 @@ This repository tracks research at the intersection of these two fields. Electri
 
 # Getting Started
 
-| Category | Resource | Venue / Lecturer / Description | Year |
-|---|---|---|---:|
-| Survey | [Tackling Climate Change with Machine Learning](https://dl.acm.org/doi/10.1145/3485128) | ACM Computing Surveys | 2022 |
-| Survey | [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5) | Nature Reviews Physics | 2021 |
-| Tutorial | [Tutorial on amortized optimization](https://arxiv.org/abs/2202.00665) | Foundations and Trends in Machine Learning | 2025 |
-| Tutorial | [Deep Implicit Layers — Neural ODEs, Deep Equilibrium Models, and Beyond](https://implicit-layers-tutorial.org) | NeurIPS | 2020 |
-| Textbook | [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | — | 2022 |
-| Textbook | [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com) | — | 2024 |
-| Textbook | [Reinforcement Learning and Optimal Control](http://www.athenasc.com/index.html) | — | 2019 |
-| Textbook | [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) | — | 2018 |
-| Lecture | [MIT 6.S191 Introduction to Deep Learning](https://introtodeeplearning.com) | Alexander and Ava Amini | 2026 |
-| Lecture | [Stanford CS224W Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec | 2021 |
-| Framework / Tool | [PyTorch](https://pytorch.org) | Deep learning framework | — |
-| Framework / Tool | [JAX](https://docs.jax.dev/en/latest/) | High-performance ML framework | — |
-| Framework / Tool | [WandB](https://wandb.ai/site/) | MLOps for tracking, visualizing, and optimizing models | — |
+| Category | Lik | Notes |
+|---|---|---:|
+| Survey | [Tackling Climate Change with Machine Learning](https://dl.acm.org/doi/10.1145/3485128) | ACM Computing Surveys, 2022 |
+| Survey | [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5) | Nature Reviews Physics, 2021 |
+| Tutorial | [Tutorial on amortized optimization](https://arxiv.org/abs/2202.00665) | Foundations and Trends in Machine Learning, 2025 |
+| Tutorial | [Deep Implicit Layers — Neural ODEs, Deep Equilibrium Models, and Beyond](https://implicit-layers-tutorial.org) | NeurIPS, 2020 |
+| Textbook | [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | 2022 |
+| Textbook | [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com) | 2024 |
+| Textbook | [Reinforcement Learning and Optimal Control](http://www.athenasc.com/index.html) | 2019 |
+| Textbook | [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) | 2018 |
+| Lecture | [MIT 6.S191 Introduction to Deep Learning](https://introtodeeplearning.com) | Alexander and Ava Amini, 2026 |
+| Lecture | [Stanford CS224W Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec, 2021 |
+| Framework / Tool | [PyTorch](https://pytorch.org) | Deep learning framework |
+| Framework / Tool | [JAX](https://docs.jax.dev/en/latest/) | High-performance ML framework |
+| Framework / Tool | [WandB](https://wandb.ai/site/) | MLOps for tracking, visualizing, and optimizing models |
 
 
 
