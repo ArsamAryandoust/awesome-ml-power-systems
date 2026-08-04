@@ -48,8 +48,6 @@ This repository tracks research at the intersection of these two fields. Electri
 
 ## Getting Started
 
-The following is a summary of what I find the most important surveys, tutorials, textbooks, lectures and tools for getting started:
-
 | Category | Resource |
 |---|---|
 | Survey | [Tackling Climate Change with Machine Learning](https://dl.acm.org/doi/10.1145/3485128) |
