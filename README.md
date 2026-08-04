@@ -20,6 +20,7 @@ Only research articles with publicly available source code and datasets are incl
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
+- [Recommended Publication Venues](#recommended-publication-venues)
 - [Research Areas](#research-areas)
   - [Forecasting](#forecasting)
   - [Simulation](#simulation)
@@ -73,63 +74,14 @@ This repository tracks research at the intersection of these two fields. Electri
 | Textbook | [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) | 2018 |
 | Lecture | [MIT 6.S191 Introduction to Deep Learning](https://introtodeeplearning.com) | Alexander and Ava Amini, 2026 |
 | Lecture | [Stanford CS224W Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec, 2021 |
-| Framework / Tool | [PyTorch](https://pytorch.org) | Deep learning framework |
-| Framework / Tool | [JAX](https://docs.jax.dev/en/latest/) | High-performance ML framework |
-| Framework / Tool | [WandB](https://wandb.ai/site/) | MLOps for tracking, visualizing, and optimizing models |
-
-
-
-
-## Recommended Surveys
-
-| Area | Title | Venue | Year |
-|--------|--------|--------|--------|
-| Application overview | [Tackling Climate Change with Machine Learning](https://dl.acm.org/doi/10.1145/3485128) | ACM Computing Surveys | 2022 |
-| Physics-Informed Learning | [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5) | Nature Reviews Physics | 2021 |
-
----
-
-## Recommended Tutorials
-
-| Area | Title | Venue | Year |
-|--------|--------|--------|--------|
-| ML for Optimization | [Tutorial on amortized optimization](https://arxiv.org/abs/2202.00665) | Foundations and Trens in Machine Learning | 2025 |
-| Differential optimization layers | [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](https://implicit-layers-tutorial.org) | NeurIPS | 2020 |
-
----
-
-## Recommended Textbooks
-
-| Area | Title | Year |
-|--------|--------|--------|
-| Machine Learning | [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | 2022 |
-| Geometric Deep Learning | [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com) | 2024 |
-| Reinforcement Learning | [Reinforcement Learning and Optimal Control](http://www.athenasc.com/index.html) | 2019 |
-| Reinforcement Learning | [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) | 2018 |
-
----
-
-## Recommended Lectures
-
-| Title | Lecturer |
-|--------|-------------|
-| [MIT 6.S191 Introduction to Deep Learning](https://introtodeeplearning.com) | Alexander and Ava Amini |
-| [Stanford CS224W Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec |
+| Tool | [PyTorch](https://pytorch.org) | Deep learning framework |
+| Tool | [JAX](https://docs.jax.dev/en/latest/) | High-performance ML framework |
+| Tool | [WandB](https://wandb.ai/site/) | MLOps for tracking, visualizing, and optimizing models |
 
 
 ---
 
-## Recommended ML Frameworks & Tools
-
-| Tool | Description |
-|--------|-------------|
-| [PyTorch](https://pytorch.org) | Deep learning framework |
-| [JAX](https://docs.jax.dev/en/latest/) | High-performance ML framework |
-| [WandB](https://wandb.ai/site/) | MLOps for tracking, visualizing and optimizing models |
-
----
-
-## Recommended Publication Venues
+# Recommended Publication Venues
 
 Unlike many other academic disciplines, computer science, and machine learning in particular, places especially strong emphasis on conference publications. Top-tier conferences often serve as the primary venues for disseminating high-impact research, in part because their shorter publication cycles are well aligned with the rapid pace of research and development in these fields.
 
