@@ -88,6 +88,7 @@ For work at the intersection of machine learning, energy systems, and climate, t
 
 ## Research Articles
 
+### ML for power systems
 
 | Year | Venue | Title | Application |
 |--------|--------|--------|-------- |
@@ -105,6 +106,13 @@ For work at the intersection of machine learning, energy systems, and climate, t
 | 2024 | NeurIPS | [PowerPM: Foundation Model for Power Systems](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d0a2279c9f7ded859bcbf878c3c3d1ed-Abstract-Conference.html) | Foundation model / representation learning for power-system tasks |
 | 2024 | DeepMind | [Mixture of A Million Experts](https://arxiv.org/abs/2407.04153) | Pioneering mixture of experts model |
 | 2022 | NeurIPS | [LIPS - Learning Industrial Physical Simulation benchmark suite](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b3ac9866f6333beaa7d38926101b7e1c-Abstract-Datasets_and_Benchmarks.html) | A modular benchmark suite for evaluating data-driven augmented physical simulators on industrial use cases, such as power grids and pneumatics, across criteria including accuracy, efficiency, robustness, and real-world applicability.|
+
+
+### ML with hard constraints
+
+| Year | Venue | Title | Application |
+|--------|--------|--------|-------- |
+| 2026 | Arxiv | [ECO: Energy-Constrained Operator Learning for Chaotic Dynamics with Boundedness Guarantees](https://arxiv.org/pdf/2512.01984) | Kuramoto–Sivashinsky and Navier–Stokes equations |
 
 
 
