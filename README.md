@@ -113,6 +113,17 @@ For work at the intersection of machine learning, energy systems, and climate, t
 | Year | Venue | Title | Application |
 |--------|--------|--------|-------- |
 | 2026 | Arxiv | [ECO: Energy-Constrained Operator Learning for Chaotic Dynamics with Boundedness Guarantees](https://arxiv.org/pdf/2512.01984) | Kuramoto–Sivashinsky and Navier–Stokes equations |
+| 2026 | Arxiv | [ENFORCE: Nonlinear Constrained Learning with Adaptive-depth Neural Projection](https://arxiv.org/abs/2502.06774) | Non-linear equality and ineqaulity constraints |
+| 2026 | Arxiv | [RAYEN: Imposition of Hard Convex Constraints on Neural Networks](https://arxiv.org/abs/2307.08336) | Convex constraints |
+| 2026 | Arxiv | [HardNet++: Nonlinear Constraint Enforcement in Neural Networks](https://ieeexplore.ieee.org/abstract/document/11579320) | Nonlinear constraints |
+| 2025 | Arxiv | [HardNet: Hard-Constrained Neural Networks with Universal Approximation Guarantees](https://arxiv.org/abs/2410.10807) | piecewise constraints |
+| 2025 | NeurIPS | [FSNet: Feasibility-Seeking Neural Network for Constrained Optimization with Guarantees](https://proceedings.neurips.cc/paper_files/paper/2025/hash/3874e2be479a9d4e94d4514046c1f934-Abstract-Conference.html) | Convex and nonconvex constraints |
+| 2025 | Arxiv | [Enforcing Hard Linear Constraints in Deep Learning Models with Decision Rules](https://arxiv.org/abs/2505.13858) | Linear constraints |
+| 2024 | Computers and Chemical Engineering | [Physics-informed neural networks with hard linear equality constraints](https://www.sciencedirect.com/science/article/abs/pii/S0098135424001820) | Linear equality constraints |
+| 2023 | Arxiv | [POLICE: Provably Optimal Linear Constraint Enforcement for Deep Neural Networks](https://arxiv.org/abs/2211.01340) | Linear constraints |
+| 2023 | Arxiv | [Data-Driven Control with Inherent Lyapunov Stability](https://arxiv.org/abs/2303.03157) | Lyapunov stability |
+
+
 
 
 
